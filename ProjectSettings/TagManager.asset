@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dialogue Manager
+  - Dialogue End Indicator
+  - Cutscene Bars
+  - GameData
+  - Node
+  - Wall
+  - Crate
+  - BrokenCrate
+  - WalkablePath
+  - AllyPlacementNode
+  - EnemyPlacementNode
+  - CharPlacementState
+  - Lemon
+  - Onion
+  - CharPlacementButton
+  - Banana
+  - BananaPeel
+  - Pumpkin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Node
+  - Water
+  - UI
+  - Path
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
